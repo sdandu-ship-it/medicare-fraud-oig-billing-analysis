@@ -1,7 +1,8 @@
 # medicare-fraud-oig-billing-analysis
 Exploratory data analysis of CMS Medicare Part B physician billing patterns cross-referenced with HHS OIG exclusion lists in Python.
 
-# Medicare Part B Billing Patterns & OIG Exclusion Analysis
+# An Analysis of Detecting Medicare Fraud and Unusual Billing Patterns in the US Medical System 
+## Using CMS Payment Data and OIG Provider Exclusions
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
 
