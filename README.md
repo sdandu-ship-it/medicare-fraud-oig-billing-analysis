@@ -16,7 +16,7 @@ An exploratory data analysis and anomaly detection project examining **Medicare 
 
 ## Data Sources
 Due to file size constraints on GitHub, the full raw CMS dataset is not stored in this repository. You can access the primary data sources below:
-1. ** 2024 CMS Medicare Physician & Other Practitioners Dataset:** [CMS Data Portal](https://data.cms.gov/)
+1. **2024 CMS Medicare Physician & Other Practitioners Dataset:** [CMS Data Portal](https://data.cms.gov/)
 2. **OIG LEIE Exclusion List:** [HHS OIG Exclusions Database](https://oig.hhs.gov/exclusions/exclusions_list.asp)
 
 ## Methodology & Tech Stack
