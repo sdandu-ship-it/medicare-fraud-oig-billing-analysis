@@ -26,3 +26,11 @@ Due to file size constraints on GitHub, the full raw CMS dataset is not stored i
   1. Data ingestion and NPI validation across billing and exclusion records.
   2. Aggregation of healthcare service volume and beneficiary metrics at the provider level.
   3. Comparative visualization (service volume vs. beneficiary count scatter plots) to highlight anomalous billing ratios.
+
+## Project Team
+This project was developed with equal contributions across python coding, exploratory analysis, and visualization by:
+* **Sree Dandu**
+* **Ahan Nair**
+* **Alice Yen**
+* **Yuxin Li**
+* **Ujjwala Kapoor**
