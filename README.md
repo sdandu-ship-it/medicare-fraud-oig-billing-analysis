@@ -30,11 +30,14 @@ Due to file size constraints, the full raw CMS dataset is not stored in this rep
   3. Comparative visualization (service volume vs. beneficiary count scatter plots) to highlight anomalous billing ratios.
 
 ## Repository Structure
+
+```text
 ├── data/                   # Data dictionary and sample datasets (full data excluded)
 ├── notebooks/              # Jupyter/Colab notebooks for exploratory analysis
 ├── src/                    # Python scripts for data cleaning and merging
 ├── visuals/                # Exported PNGs of scatter plots and distributions
 └── README.md
+```
 
 ## Project Team
 Developed with equal contributions across Python coding, exploratory analysis, and visualization by Master of Science in Business Analytics (MSBA) candidates at Boston University Questrom School of Business:
